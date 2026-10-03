@@ -7,7 +7,7 @@ Roll number: U20260211
 
 ## Contents
 
--'lab1/' - terminal 
+-'lab1/' - terminals
 -'lab2/' - variables, types, operations, I/O
 -'lab3/' - conditionals and loops
 -'lab4/' - git and github
